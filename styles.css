@@ -1,17 +1,17 @@
 body {
-    background-color:blue ;
+    background-color:beige ;
     font-family:'Times New Roman', Times, serif;
 }
 h1 {
 
     text-align: center;
-    color: yellow;
+    color: blue;
 }
 h2{
-    color: chocolate;
+    color: red;
     text-align: center;
 }
 .about {
-    color:purple;
+    color:black;
     text-align: right;
 }
