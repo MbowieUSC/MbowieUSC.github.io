@@ -15,3 +15,15 @@ h2{
     color:black;
     text-align: right;
 }
+
+.projects { 
+    display:flex; 
+    flex-wrap:wrap}
+.project
+{
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: red;
+    border-radius: 25%;
+}
