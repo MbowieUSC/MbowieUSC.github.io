@@ -11,6 +11,9 @@ h2{
     color: red;
     text-align: center;
 }
+h3{
+    text-align: center;
+}
 .about {
     color:black;
     text-align: right;
