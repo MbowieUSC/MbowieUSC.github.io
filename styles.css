@@ -1,21 +1,21 @@
 body {
-    background-color:beige ;
+    background-color:#0b0C10 ;
     font-family:'Times New Roman', Times, serif;
 }
 h1 {
 
     text-align: center;
-    color: #3D52A0;
+    color: whitesmoke;
 }
 h2{
-    color: #7091E6;
+    color: #66Fcf1;
     text-align: center;
 }
 h3{
     text-align: center;
 }
 .about {
-    color:#8697C4;
+    color:#45a29E;
     text-align: right;
     display:flex;
     flex-wrap:wrap;
